@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* JavaScript
+* Html
+* Css
+* Food
+* Coffee
